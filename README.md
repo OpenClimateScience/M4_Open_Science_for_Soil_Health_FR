@@ -58,4 +58,4 @@ Le workflow est implémenté sous forme de **notebook Google Colab** et conçu p
 ---
 
 ## Notebook
-L’ensemble du workflow est implémenté dans le notebook :
+L’ensemble du workflow est implémenté dans le notebook : https://github.com/OpenClimateScience/M4_Open_Science_for_Soil_Health_FR/blob/main/M4_Science_Ouverte_Pour_la_Sante_des_Sols.ipynb
