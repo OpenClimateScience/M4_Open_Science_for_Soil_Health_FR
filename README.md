@@ -1,4 +1,4 @@
-# OpenClimateScience M4 – Science Ouverte pour la Santé des Sols  
+# M4 – Science Ouverte pour la Santé des Sols  
 ### Cartographie haute résolution du carbone organique du sol (Algérie)
 
 ## Aperçu du projet
